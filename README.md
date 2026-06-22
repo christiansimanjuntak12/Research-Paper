@@ -9,4 +9,4 @@ In this paper, we focus on four major crises that Germany has experienced for th
 + Post-2000 stagnation period (2000-2003)
 + Global financial crisis (2008-2009)
 + Euro area sovereign debt crisis (2009-2013)
-+ COVID pandemic (2019-2020).
++ COVID pandemic (2019-2020)
