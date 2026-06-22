@@ -1,5 +1,5 @@
 # Research-Paper
-Topic: Macroeconomic Roles in Influencing the Correlation between Commodity Future and German Stock Index during German Economic Crisis
+Topic: **Macroeconomic Roles in Influencing the Correlation between Commodity Future and German Stock Index during German Economic Crisis**
 
 This paperis the first one in employing DCC-GARCH approach to investigate the time varying correlation between commodity futures and German stock market index.
 
